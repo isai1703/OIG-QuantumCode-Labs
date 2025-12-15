@@ -1,0 +1,14 @@
+[CAT::MainOrchestrator_v1]
+modules: quantum_engine, vision_ai, short_creator, guardian
+
+workflow {
+    load(quantum_engine);
+    load(vision_ai);
+    load(short_creator);
+    load(guardian);
+}
+
+boot {
+    priority: max;
+    auto_update: true;
+}
