@@ -1,0 +1,15 @@
+[CAT::ShortVideoCreator_v2]
+goal: auto_generate_social_content
+platforms: tiktok, reels, shorts
+
+video {
+    duration: 4-12s;
+    transitions: holographic;
+    speed_ramp: auto;
+    captions: dynamic_ai;
+}
+
+audio {
+    voice_clone: allowed;
+    music_sync: beat_match;
+}

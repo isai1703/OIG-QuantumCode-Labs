@@ -1,0 +1,14 @@
+[CAT::QuantumGuardian_v1]
+protection: high
+monitoring: enabled
+
+modules {
+    anomaly_detector: ai;
+    network_watchdog: active;
+    auto_repair: true;
+}
+
+logs {
+    format: encrypted;
+    retention: 7d;
+}

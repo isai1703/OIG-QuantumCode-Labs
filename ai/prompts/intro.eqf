@@ -1,0 +1,15 @@
+<EQF::QuantumIntro_v1>
+intent: generate animated intro for brand "OIG Labs"
+
+style {
+    theme: holographic_energy;
+    glow: cyan_blue;
+    particles: quantum_dust;
+    movement: slow_expand;
+}
+
+text {
+    primary: "OIG QuantumCode Labs";
+    sub: "Inteligencia Artificial de Nueva Generación";
+}
+</EQF::QuantumIntro_v1>

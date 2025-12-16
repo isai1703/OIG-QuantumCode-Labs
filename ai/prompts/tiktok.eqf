@@ -1,0 +1,15 @@
+<EQF::TikTokCreator_v1>
+intent: create viral short video content
+tone: futuristic, cinematic, high-energy
+
+rules {
+    keep_scene_structure: stable;
+    optimize_for_viewer_retention: true;
+    auto-add-motion: yes;
+}
+
+output {
+    video_style: neon_quantum;
+    pacing: 0.8s_per_cut;
+}
+</EQF::TikTokCreator_v1>
