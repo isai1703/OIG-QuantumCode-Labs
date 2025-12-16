@@ -1,2 +1,17 @@
+<<<<<<< HEAD
 build/
 .idea/
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+>>>>>>> da09c02 (feat: clean Android project structure)
